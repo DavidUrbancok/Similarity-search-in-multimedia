@@ -1,0 +1,100 @@
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015023585.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+22,4,0,0,0,0,0,6,249,191,63,38,0,0,0,0,0,2,0,0,0,0,15,4,255,255,188,40,52,32,7,0,23,10,17,15,42,26,25,17,233,176,128,43,145,93,61,4,80,52,51,24,59,32,42,21,163,113,88,73,92,63,22,7
+63,-35,-105,50,-11,-9,9,21,-31,-19,-4,9,-38,5,7,15,7,-5,-3,12,-5,2,-1,6,-15,3,-2,3,-8,5,1,-2,3,2,-3,-2,-3,-3,0,1,3,-5,-5,0,-3,-1,3,2,-15,-3,-2,-3,-4,3,2,-2,-5,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015024869.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+11,0,0,0,0,0,0,5,149,156,42,7,0,0,0,0,0,0,0,0,0,0,36,11,172,215,193,51,49,9,0,4,23,7,2,13,45,20,19,8,180,71,35,14,194,67,28,13,128,64,34,19,53,29,21,14,174,114,68,49,15,11,17,5
+44,11,-88,41,-2,-10,10,26,-30,-39,-14,6,-27,8,10,17,3,-6,-3,7,0,0,-3,4,-15,0,-1,0,-7,5,1,-3,3,-2,-3,-10,-3,-3,-1,1,2,-3,-10,-3,-6,-2,1,2,-12,-3,2,2,2,4,4,-1,-4,0,0,-2,1,0,-3,-4
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015025349.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,255,0,0,0,1,7,0,0,0,0,4,0,255,255,0,0,0,0,0,0,3,18,32,17,18,29,28,4,105,156,255,160,2,4,4,0,6,33,33,0,10,25,29,4,32,45,56,58,4,13,16,24,5,27,27,25,20,21,1,2
+-38,67,127,-81,1,8,25,29,10,15,31,28,-2,6,-3,16,-3,3,-3,2,-1,5,-15,0,-7,8,-15,2,-3,5,-31,-4,3,2,2,3,3,2,1,2,1,1,1,3,10,2,4,5,-1,-1,1,-1,6,3,3,0,0,0,0,-2,-15,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015044688.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,3,239,66,0,25,0,102,11,30,0,0,0,48,21,202,215,91,14,3,0,255,94,19,10,201,104,45,14,255,228,172,134,124,81,23,9,200,56,15,10,197,102,42,28,194,112,63,47,122,66,9,0,154,105,42,32,3,6,6,0
+151,47,79,-50,16,1,20,19,-31,-38,4,-17,4,6,0,25,5,-1,-3,0,14,-6,10,-12,3,4,15,-2,-3,5,23,-9,-3,-3,-1,2,-1,1,2,-1,-5,-6,-6,-1,-6,-1,7,2,1,-3,1,1,-3,9,1,0,0,0,0,-2,-2,1,-6,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015059336.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+202,32,0,0,0,0,0,4,161,29,21,0,0,0,3,0,0,0,0,0,0,0,11,3,178,54,12,0,84,28,0,0,54,7,0,0,68,16,0,0,157,12,0,0,142,15,0,0,107,5,0,0,99,7,0,0,255,38,3,0,0,0,0,0
+5,6,-81,53,4,4,17,28,-31,-37,-18,-4,28,14,19,21,-7,1,1,10,-12,5,-4,5,-5,2,2,1,-15,5,1,-4,-3,-3,-3,-10,-3,-3,-2,-3,-3,-7,-9,-7,-7,-2,0,0,1,1,2,2,2,3,3,-1,3,1,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015061098.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,125,90,0,0,0,0,0,0,0,0,4,166,0,0,49,65,94,97,72,4,0,0,0,0,62,66,83,122,212,207,150,71,93,16,0,0,23,0,0,0,120,21,0,12,212,114,28,14,174,46,15,0,0,0,0,4
+11,36,127,95,8,16,19,-4,-1,7,19,-41,6,14,-20,-2,-7,3,3,0,-11,5,8,5,-12,2,15,8,-10,5,1,-4,-3,0,0,-1,-2,-3,-4,1,0,0,-1,1,-2,-7,-7,-5,-5,0,2,2,2,15,3,-10,-5,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015076099.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,52,16,15,3,0,0,0,0,0,0,0,0,0,0,0,0,134,232,190,26,9,22,15,0,2,0,1,0,0,7,7,0,170,208,243,99,87,61,106,54,13,10,18,4,7,0,3,0,74,85,32,18,22,93,42,0
+-24,-14,-127,48,-43,-13,19,28,-22,8,9,22,-44,-8,16,21,7,-10,-3,3,-8,5,-1,0,15,-8,3,1,-3,5,1,-4,3,0,-3,-1,-3,0,1,1,6,1,1,3,0,2,4,5,-11,-3,-2,0,1,1,3,-1,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015083641.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,114,67,45,0,0,0,0,6,9,10,7,0,0,0,0,211,255,223,134,53,66,75,34,53,102,103,61,8,31,21,17,95,237,255,255,255,255,220,134
+53,-1,-87,22,-49,-8,-5,20,-31,13,12,23,-32,-16,-9,10,7,1,-3,6,-2,1,0,1,1,4,-4,2,-3,5,1,-4,2,2,-1,2,3,0,2,3,-4,-3,-3,3,1,2,4,4,-2,-3,0,0,1,2,2,-1,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015140071.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,81,0,0,0,4,0,0,0,23,0,0,0,0,0,0,0
+-170,71,74,7,8,14,51,29,6,13,-31,22,9,14,19,22,0,1,-1,2,-1,5,-15,0,-2,2,2,0,-3,5,1,-4,0,0,0,1,-3,-3,1,2,1,1,1,3,-15,1,4,5,1,0,2,2,2,3,3,0,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015155782.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,6,0,0,0,140,0,0,0,0,202,13,3,0,0,0,0,0,123,255,3,26,0,0,255,193,57,9,24,0,3,0,72,142,169,135,60,98,88,96,153,149,68,36,55,45,7,5,64,102,80,38,86,137,88,61,55,76,86,65,36,34,13,31
+48,-35,16,21,13,5,10,4,-31,-1,31,15,-4,13,-9,2,7,-1,3,0,15,2,9,-1,3,1,15,-8,3,5,12,-4,1,3,-3,0,-1,3,3,0,0,5,-2,3,1,1,3,5,-2,-3,1,2,2,10,3,-2,0,-6,0,-2,1,1,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015235782.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,45,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,53,58,20,7,0,0,0,3,0,0,0,4,0,3,8,134,147,112,61,51,36,28,7,71,92,100,72,15,19,38,59,255,255,255,255,255,255,166,87
+23,-13,-73,22,-35,-5,-6,26,-31,-14,2,27,-27,6,-2,10,-5,6,-3,7,-3,1,-1,2,-14,4,3,-2,-7,5,1,-4,0,-3,-3,-7,-2,1,1,1,-4,-7,-5,1,0,2,4,3,-9,-2,-1,-1,-2,4,8,1,-4,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015255511.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,4,4,7,0,0,6,0,51,46,36,12,35,33,30,0,154,150,136,72,112,104,93,36,99,68,56,9,81,57,48,13,228,182,131,31,188,166,129,42,255,159,121,109,78,47,12,3
+74,53,98,35,-15,6,2,7,-31,-17,-31,-25,0,6,-5,5,-7,6,3,-7,-1,6,8,1,-7,6,14,-3,-3,5,1,-4,-3,-3,-3,-3,0,2,3,-1,-7,-7,-6,-5,-7,-12,-6,-4,-2,-2,0,-2,-2,-7,-1,-3,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015318832.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+255,142,18,37,86,30,0,69,255,220,179,190,42,28,70,15,101,5,53,8,38,7,122,59,255,255,255,255,213,115,90,84,148,103,56,48,212,112,99,59,255,130,132,129,160,66,62,63,109,55,55,62,141,62,66,68,161,75,40,47,34,31,36,57
+199,-68,-107,67,14,15,30,34,-27,-21,-9,-7,-10,1,17,8,3,0,-1,8,-12,5,-5,3,-3,1,-2,9,-13,7,-5,1,-3,-3,-1,1,1,0,0,1,-8,-7,-6,2,0,2,3,3,2,2,2,1,0,3,4,0,-2,-2,0,-4,-3,-2,-3,-6
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015342591.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,124,0,0,0,0,0,0,0,0,0,0,0,255,255,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,74,1,0,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0
+-130,74,108,-30,8,14,31,29,6,16,31,22,9,11,14,22,0,1,0,2,-1,5,-9,0,-2,5,-15,0,-3,5,-31,-4,0,0,0,1,0,0,1,2,1,1,1,3,10,2,4,5,1,0,2,3,-4,3,3,0,0,0,0,-2,-15,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015349096.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+18,0,0,0,83,3,3,255,137,91,27,6,3,0,15,21,55,90,29,49,54,75,159,180,134,255,216,144,3,58,63,46,21,70,107,63,39,103,108,119,17,113,53,46,0,44,33,26,0,40,22,10,0,37,15,32,3,0,10,15,4,0,6,10
+78,-21,38,99,-11,9,21,31,1,28,31,63,-35,-4,10,35,7,-2,2,4,-10,5,-1,6,-2,1,2,2,-7,6,-16,35,3,3,3,2,2,3,5,8,10,3,1,3,4,4,7,12,-4,-3,0,3,1,4,4,3,-5,-1,0,-3,2,0,-6,7
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015398476.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,29,33,49,6,5,0,0,112,210,32,49,29,14,25,33,30,24,27,30,0,0,17,34,195,191,180,157,57,43,38,48,83,64,53,59,94,85,64,46,176,92,69,84,108,29,27,36,136,87,67,70,118,57,40,48,255,128,77,49,50,46,46,65
+111,4,-43,25,-12,13,9,21,-21,-7,-20,0,-38,11,-1,8,-7,3,2,10,-5,4,1,6,-15,5,2,4,-4,7,1,-4,-3,-3,-3,-1,-2,-3,0,-1,-4,-7,-6,-1,-3,-5,0,-3,6,1,3,4,1,4,4,1,-2,-1,0,0,0,-1,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015767285.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+255,109,15,62,62,78,47,255,168,204,54,115,25,11,50,9,60,46,119,43,111,49,168,123,127,132,111,151,61,63,37,62,98,63,46,70,138,106,64,79,44,43,23,65,26,14,9,50,32,13,10,58,27,27,19,44,10,18,3,2,0,2,8,67
+108,-28,30,104,11,15,37,51,31,22,26,53,18,10,21,37,-3,-2,1,6,-13,7,8,4,-10,-2,1,5,-15,11,6,26,3,3,3,2,1,2,3,4,5,-1,3,7,2,7,7,12,10,3,2,6,7,5,6,4,15,3,-1,-3,-2,-6,-5,5
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015768091.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,6,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,242,150,38,15,0,1,0,0,0,4,18,31,1,1,0,0,252,183,83,29,42,18,13,4,29,105,118,94,46,47,19,0,122,200,214,206,160,115,49,9
+8,-44,-54,24,-34,2,1,14,-31,4,20,9,-11,9,-11,18,-4,-4,3,6,3,4,0,1,-6,-1,14,0,-3,5,1,-4,1,-3,-3,1,3,3,3,2,-7,-7,0,3,1,2,4,4,-5,-3,-2,3,1,4,1,-2,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015768096.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,255,181,41,13,1,0,0,0,3,25,51,56,0,0,0,0,255,223,88,32,27,52,30,12,53,138,142,95,58,71,30,6,85,174,221,213,164,92,12,67
+21,-43,-51,20,-38,3,-1,12,-31,13,22,11,-19,3,-15,16,-1,0,1,3,4,5,0,0,0,1,2,-2,-3,5,1,-4,1,0,0,2,3,3,1,3,-6,-7,1,3,1,2,4,5,-4,-3,4,3,3,2,1,-2,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015800068.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,4,101,111,0,0,0,0,0,0,0,0,0,0,0,0,36,80,139,124,91,62,0,0,0,0,64,37,38,26,113,88,81,59,149,41,13,30,47,0,0,24,220,78,73,81,174,76,53,65,255,113,10,18,27,27,17,91
+56,18,118,44,0,14,10,17,-14,4,-31,-12,-9,9,1,-4,-7,4,3,6,-15,6,11,8,-15,3,10,8,-7,5,1,-4,-3,-3,-2,-4,-3,-3,-9,-2,-6,-1,-2,-1,-10,-15,-4,-9,3,2,4,5,3,6,4,1,-4,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015813465.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+-187,41,-3,54,8,14,22,29,31,13,11,22,39,14,19,22,0,1,0,2,-1,5,0,0,-2,2,2,0,-15,5,1,-4,0,0,0,1,0,0,1,2,1,1,1,3,1,2,4,5,1,0,2,2,2,3,3,0,2,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015856524.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,206,13,0,72,105,16,0,0,19,0,0,0,0,0,0,255,255,157,76,7,0,0,0
+-66,13,-102,61,-42,-10,20,30,-31,-18,9,13,4,9,19,22,7,-7,2,4,7,-1,0,5,3,-1,2,0,-3,5,1,-4,-3,-3,1,6,0,-2,0,-1,-6,-7,-5,3,1,2,4,0,1,-3,-2,1,2,3,3,0,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015866497.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,42,8,4,4,23,12,0,0,0,0,0,0,0,0,0,255,70,60,47,23,28,28,4,31,79,114,24,26,54,90,95,201,131,131,127,156,135,112,64
+10,-4,-16,50,-22,-1,1,17,-31,1,17,38,-4,5,-8,-8,7,9,-3,5,14,2,0,1,-11,11,-7,8,-3,5,1,-4,-3,-3,-3,6,3,2,4,4,-5,-7,-2,3,1,2,4,4,0,0,2,-3,-4,4,4,3,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015966924.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,234,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+-190,71,54,27,8,14,49,29,6,13,-16,22,9,14,19,22,0,1,0,2,-1,5,15,0,-2,2,2,0,-3,5,1,-4,0,0,0,1,0,0,1,2,1,1,1,3,-3,-5,4,5,1,0,2,2,2,3,3,0,0,0,0,-2,1,0,-3,-3
+#objectKey messif.objects.keys.AbstractObjectKey test-images/015970771.jpg
+ColorStructureType;messif.objects.impl.ObjectShortVectorL1;ScalableColorType;messif.objects.impl.ObjectIntVectorL1
+255,240,25,33,56,104,2,97,255,253,149,167,63,55,46,47,72,46,132,53,41,32,152,104,251,232,188,160,102,107,94,86,179,116,66,60,208,177,114,71,130,71,56,52,88,52,44,45,103,62,39,30,123,61,40,46,106,53,30,22,14,4,1,31
+237,-41,-47,54,32,12,25,27,31,5,-4,5,27,-6,17,7,-2,-1,2,5,-15,-1,9,13,-7,-1,1,9,-15,4,8,6,3,1,2,3,0,2,4,6,6,2,0,2,1,1,1,7,2,2,1,2,5,5,2,0,-4,-1,-2,-3,-1,1,-4,-6
