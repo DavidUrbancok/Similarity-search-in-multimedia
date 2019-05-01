@@ -19,6 +19,10 @@ public class Main {
         
         //FifthMain.fifthMain(null);
         
-        SeventhMain.seventhMain(null);
+        //SeventhMain.seventhMain(null);
+        
+        //EightMain.eightMain(null);
+        
+        Homework2.main(null);
     }
 }
