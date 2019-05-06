@@ -1,10 +1,3 @@
-import messif.objects.LocalAbstractObject;
-import messif.objects.util.StreamGenericAbstractObjectIterator;
-
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.util.Iterator;
-
 public class Main {
     public static void main(String[] args) throws Exception {
         //FirstMain.firstMain(null);
@@ -23,6 +16,6 @@ public class Main {
         
         //EightMain.eightMain(null);
         
-        Homework2.main(null);
+        //Homework2.main(null);
     }
 }

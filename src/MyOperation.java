@@ -6,7 +6,7 @@ import messif.operations.RankingQueryOperation;
 
 @AbstractOperation.OperationName("Multi-query object KNN operation")
 public class MyOperation extends RankingQueryOperation {
-    private LocalAbstractObject[] queryObjects;
+    private final LocalAbstractObject[] queryObjects;
     
     @OperationConstructor({"number of objects to retrieve", "list of query objects"})
     public MyOperation(int k, LocalAbstractObject... objects) {
